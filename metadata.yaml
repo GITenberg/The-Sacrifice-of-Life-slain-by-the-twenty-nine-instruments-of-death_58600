@@ -1,5 +1,8 @@
 _repo: The-Sacrifice-of-Life-slain-by-the-twenty-nine-instruments-of-death_58600
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58600-h/images/cover.jpg
 creator:
   author:
     agent_name: Church, John
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '49727'
     url: http://www.gutenberg.org/2009/agents/49727
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58600#The-Sacrifice-of-Life-slain-by-the-twenty-nine-instruments-of-death
 gutenberg_issued: '2019-01-02'
 gutenberg_type: Text
 identifiers:
